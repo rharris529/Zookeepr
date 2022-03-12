@@ -171,6 +171,25 @@
         "hungry"
       ],
       "id": "17"
+    },
+    {
+      "name": "Bobby",
+      "species": "llama",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "18"
+    },
+    {
+      "name": "Bobby",
+      "species": "llama",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "19"
     }
   ]
 }
